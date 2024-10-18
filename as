@@ -38,3 +38,10 @@ p {
   display: flex;
   justify-content: center;
 }
+body {
+  color: white;
+  background: black;
+  margin: 0px;
+  font-family: "Chakra Petch", sans-serif;
+  margin-bottom: 100px;
+}
