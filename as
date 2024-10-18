@@ -31,11 +31,10 @@ h1 {
 p {
   font-size: 20px;
 }
-<!-- código omitido -->
-
-<section class="categoria">
-  <h2>Filmes e séries</h2>
-  <div class="categoria-videos">
-    <!-- código omitido -->
-  </div>
-</section>
+.chamada {
+  background: rgb(184, 156, 213);
+  padding-bottom: 80px;
+  padding-top: 80px;
+  display: flex;
+  justify-content: center;
+}
