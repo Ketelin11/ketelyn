@@ -31,3 +31,11 @@ h1 {
 p {
   font-size: 20px;
 }
+<!-- código omitido -->
+
+<section class="categoria">
+  <h2>Filmes e séries</h2>
+  <div class="categoria-videos">
+    <!-- código omitido -->
+  </div>
+</section>
